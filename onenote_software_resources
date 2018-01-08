@@ -1,0 +1,222 @@
+Resources:
+Sunday, January 7, 2018
+7:01 PM
+1.	Jupyter:
+a.	User Manuals:
+i.	Official Jupyter Documentation: http://jupyter.readthedocs.io/en/latest/
+1.	http://jupyter-notebook.readthedocs.io/en/stable/notebook.html 
+ii.	Jupyter Notebook Documentation Release 5.3.0.dev0: 
+https://media.readthedocs.org/pdf/jupyter-notebook/latest/jupyter-notebook.pdf
+3.	Markdown for Jupyter notebooks cheatsheet:
+ https://medium.com/ibm-data-science-experience/markdown-for-jupyter-notebooks-cheatsheet-386c05aeebed
+iv.	Markdown Cells:   
+1.	jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/Working%20With%20Markdown%20Cells.html 
+2.	https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb
+3.	https://daringfireball.net/projects/markdown/ 
+4.	https://stackoverflow.com/questions/35797582/list-numbering-jupyter-notebook-markdown 
+ii.	A gallery of interesting Jupyter Notebooks: https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+iii.	Problems & Solutions:
+1.	Creating a table of contents with internal links: sebastianraschka.com/Articles/2014_ipython_internal_links.html
+ii.	Python:
+1.	Learn Python Programming:
+i.	  Complete Python Bootcamp: Go from zero to hero in Python: 
+https://www.udemy.com/complete-python-bootcamp/ 
+ii.	  Automate the Boring Stuff with Python:
+https://automatetheboringstuff.com/
+https://www.udemy.com/automate/
+iii.	Learn the Python Hard way: 
+http://web.archive.org/web/20170707220604/https://learnpythonthehardway.org/book/preface.html 
+iv.	Rice Uni. Coursera Lecture
+1.	An Introduction to Interactive Programming in Python (Part 1): https://www.coursera.org/learn/interactive-python-1
+2.	An Introduction to Interactive Programming in Python (Part 2): https://www.coursera.org/learn/interactive-python-2 
+v.	  Learning Python: From Zero to Hero: 
+https://medium.com/the-renaissance-developer/learning-python-from-zero-to-hero-8ceed48486d5
+vi.	Others:
+1.	http://www.diveintopython.net/index.html
+2.	Lists some nice websites: https://hackr.io/tutorials/learn-python
+3.	Python for Everybody Specialization by Uni Michigan: https://www.coursera.org/specializations/python
+ 
+ii.	Websites for Referencing:
+1.	Tutorialspoint: https://www.tutorialspoint.com/python3/index.htm
+2.	https://www.python-course.eu/
+3.	https://www.learnpython.org/
+4.	https://wiki.python.org/moin/
+5.	https://github.com/vinta/awesome-python
+6.	https://jeffknupp.com/
+7.	Packages:
+i.	Package Index: https://pypi.python.org/pypi
+ii.	Python Tkinter(text widgets): https://www.python-course.eu/python_tkinter.php
+iii.	Simple Widget Introduction: ipywidgets.readthedocs.io/en/stable/examples/Widget%20Basics.html 
+iii.	Other:
+1.	 
+iii.	Mulakat Specifics:
+1.	Mulakat Format: 
+i.	  Cracking the Facebook Coding Interview- The Approach: https://vimeo.com/157480836
+1.	Password: FB_IPS
+ii.	https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920
+iii.	https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook?__mref=message_bubble
+iv.	https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
+1.	https://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+v.	Courses:
+1.	https://www.udemy.com/software-engineer-interview-unleashed/
+2.	https://www.coursera.org/learn/cs-tech-interview/home/welcome
+vi.	https://www.paysa.com/blog/2017/05/23/33-common-software-engineering-interview-questions/
+vii.	https://medium.com/@101/how-to-conduct-a-technical-interview-for-software-engineer-52648ce8b876
+viii.	https://www.quora.com/How-do-I-prepare-for-a-software-engineering-job-interview
+ix.	https://github.com/jwasham/coding-interview-university
+ 
+ii.	Mulakat Questions:
+1.	Websites:
+i.	Most Popular Suggestions:
+1.	https://medium.freecodecamp.org/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f
+2.	https://www.quora.com/What-are-good-coding-challenges-websites
+3.	https://www.quora.com/What-are-some-websites-similar-to-CareerCup-providing-interview-questions-asked-in-various-companies
+4.	http://infocreeds.com/top-10-coding-challenges-websites/
+5.	https://www.linkedin.com/pulse/most-popular-programming-contest-sites-coding-practice-somenath-panda/
+6.	https://www.reddit.com/r/learnprogramming/comments/244yqk/sites_like_project_euler/
+7.	
+ 	 
+8.	https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/courseware/c77f2cc9fb2a42589f0d723e8fefbd35/c58684c1812443db80c4b0028aba9bc3/1?activate_block_id=block-v1%3AMITx%2B6.00.1x%2B2T2017_2%2Btype%40vertical%2Bblock%403710bb4774064f7a8f37e9d5b56cae4d
+ii.	https://leetcode.com/
+iii.	https://www.geeksforgeeks.org/
+iv.	http://blog.gainlo.co/
+v.	https://www.careercup.com/
+vi.	https://projecteuler.net/archives
+1.	https://www.quora.com/What-are-the-top-10-things-to-know-to-solve-Project-Euler-problems
+vii.	https://www.glassdoor.com/Interview/Facebook-Software-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,26.htm
+ 
+ii.	Books:
+1.	  Elements of Programming Interviews in Python
+ 
+iv.	Algorithms:
+1.	Learning Algorithms Online:
+i.	Courses:
+1.	  Stanford Algorithm Course by Tim Roughgarden
+a.	http://theory.stanford.edu/~tim/videos.html
+i.	https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/info
+ii.	https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/info
+iii.	Algorithms 1: https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V
+iv.	Algorithms 2: https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6
+b.	https://www.coursera.org/specializations/algorithms
+c.	http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms
+d.	Review about this course: http://moocnewsandreviews.com/mooc-review-algorithms-design-and-analysis-part-i/
+2.	  Princeton Coursera Courses:
+a.	https://www.coursera.org/learn/algorithms-part1
+b.	https://www.coursera.org/learn/algorithms-part2
+3.	  MIT Courses:
+a.	http://erikdemaine.org/classes/
+i.	 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+(https://learning-modules.mit.edu/materials/index.html?uuid=/course/6/fa16/6.006#materials)
+ii.	https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
+4.	Udemy Courses
+a.	  https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/
+b.	  https://www.udemy.com/algorithms-and-data-structures-in-python/
+ 
+2.	Websites for Algorithms:
+a.	  https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+b.	  https://www.khanacademy.org/computing/computer-science/algorithms
+c.	   https://visualgo.net/en
+d.	http://www.techiedelight.com/top-algorithms-data-structures-concepts-computer-science/
+e.	Algorithms Concepts:
+a.	https://www.quora.com/What-are-some-concepts-algorithms-data-structures-that-every-computer-science-student-should-know
+b.	https://en.wikipedia.org/wiki/Algorithm
+i.	https://en.wikipedia.org/wiki/List_of_algorithms
+c.	http://erdos.csie.ncnu.edu.tw/~rctlee/course/biology/slide2_algorithm.pdf
+d.	My List:
+recursion, graph theory, tree traversal, combinatorial problems data structures, binary trees, linked lists, object-oriented design, algorithms Data structures -- (linked) lists, sets, hashtables, trees, graphs, and so on -- as well as Big O notation and algorithmic complexity
+ 
+3.	Other Useful Sites :
+a.	https://www.tutorialspoint.com/data_structures_algorithms/index.htm 
+a.	This is in C
+2.	Books:
+a.	https://www.amazon.com/Algorithms-Unlocked-Thomas-H-Cormen/dp/0262518805 
+b.	https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/
+ 
+3.	Other Stuff:
+a.	Course Comparisons:
+a.	https://www.quora.com/What-are-the-best-Algorithms-MOOCs
+b.	https://hackr.io/tutorials/learn-data-structures-algorithms
+c.	https://www.reddit.com/r/learnprogramming/comments/5e3szc/which_is_the_best_video_course_free_or_paid_on/
+d.	https://medium.com/@lockpaddy/6-resources-to-learn-algorithms-and-data-structures-9a72008a97a9
+b.	Other Courses:
+a.	https://www.udacity.com/course/intro-to-algorithms--cs215
+c.	Coursera Algo Courses:
+a.	https://www.coursera.org/browse/computer-science/algorithms?languages=en
+d.	https://github.com/Developer-Y/cs-video-courses#data-structures-and-algorithms
+ 
+5.	Computer Science Fundamentals:
+a.	Underrgraduate Curriculum:
+a.	http://csmajor.stanford.edu/Requirements.shtml
+b.	http://csmajor.stanford.edu/Considering.shtml
+c.	http://csmajor.stanford.edu/Minor.shtml
+d.	http://csmajor.stanford.edu/ProgramSheets.shtml
+i.	 CS 103(math foundations), CS 106, CS 107(Computer Organization and Systems), CS 109(intro probability), CS 161(algo) and cs 110(Principles of Computer Systems) (https://explorecourses.stanford.edu/) 
+ii.	CS 106A/B/X and CS 161 and maybe CS 103 for math foundations(NP stuff etc)
+b.	Introduction to Computer Science:
+a.	Introduction to Computer Science Harvard CSX50: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+i.	http://cs50.tv/2016/fall/
+b.	Introduction to Computer Science and Programming Using Python: https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11
+i.	https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
+c.	  https://learn.saylor.org/course/cs101
+d.	Others
+i.	https://www.quora.com/Which-has-the-best-CS101-Introduction-to-Computer-Science-course-Coursera-Udacity-or-edX 
+a.	This link has also some useful info about MOOC sites. 
+b.	https://www.quora.com/Which-has-the-best-CS101-Introduction-to-Computer-Science-course-Coursera-Udacity-or-edX/answer/Gurasis-Anand?srid=uzIBk 
+6.	Machine Learning, Data Science, Deep Learning, Statistics:
+a.	General Info:
+a.	Datascience Browse Results from Coursera: https://www.coursera.org/browse/data-science?languages=en
+b.	Coursera Datascience Specialization: https://www.coursera.org/specializations/jhu-data-science
+c.	Datascience Course Comparison:
+i.	https://medium.freecodecamp.org/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e
+ii.	https://www.class-central.com/report/best-data-science-curriculum/
+d.	Datascience Courses:
+i.	Data Science A-Z™: Real-Life Data Science Exercises Included in Udemy
+e.	Machine Learning:
+i.	Andrew Ng: https://www.coursera.org/learn/machine-learning
+ii.	Course Specialization: https://www.coursera.org/specializations/machine-learning ((Uni Michigan))
+iii.	Columbia Uni. Machine Learning:  https://www.edx.org/course/machine-learning-columbiax-csmm-102x-2  
+iv.	Machine Learning A-Z™: Hands-On Python & R In Data Science in Udemy
+v.	Machine Learning Course Comparisons:
+a.	https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0 
+b.	https://www.class-central.com/report/best-machine-learning-courses/ 
+i.	In addition to Krill and Andrew courses, Machine Learning by Columbia University via edX
+c.	Other Stuff:
+i.	https://www.quora.com/Which-are-the-best-online-courses-for-Machine-learning
+ii.	https://www.quora.com/What-is-the-best-MOOC-to-get-started-in-Machine-Learning
+iii.	https://www.quora.com/How-do-I-learn-machine-learning-1
+f.	Deeplearning:
+i.	https://www.coursera.org/specializations/deep-learning
+g.	Statistics:
+i.	From class-central: 
+a.	Statistics & Probability 2. 3. Foundations of Data Analysis - Part 1 : Statistics Using R and Part 2: Inferential Statistics by the University of Texas at Austin via edX 
+b.	Statistics with R Specialization by Duke University via Coursera 
+c.	Introduction to Probability — The Science of Uncertainty by the Massachusetts Institute of Technology (MIT) via edX 
+d.	https://www.class-central.com/report/best-statistics-probability-courses-data-science/ 
+e.	https://projects.iq.harvard.edu/stat110/home
+ 
+ 
+7.	General Course Stuff:
+a.	MIT Most Visited Courses:
+https://ocw.mit.edu/courses/most-visited-courses/
+2.	MIT EECS Courses:
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/
+c.	Coursera Popular Courses:
+https://www.coursera.org/featured/trending_courses_locale_en_os_web
+d.	Coursera Top Specialization:
+https://www.coursera.org/featured/top_specializations_locale_en_os_web
+i.	Deeplearning.ai
+v.	Online Stanford Courses: https://online.stanford.edu/courses/allcourses
+f.	Useful Youtube Channels for Programming:
+i.	Mycodeschool: https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA
+g.	Udacity Nanodegree: https://www.udacity.com/nanodegree
+h.	Courses for Curiosity:
+i.	https://www.coursera.org/learn/learning-how-to-learn
+ii.	https://www.coursera.org/learn/speak-english-professionally
+i.	MOOCs Comparison Sites:
+i.	https://www.coursetalk.com/
+ii.	https://www.class-central.com/report/mooc-providers-list/
+1.	https://www.class-central.com/collection/top-free-online-courses?sort=rating-up
+iii.	https://www.onlinecoursereport.com/the-50-most-popular-moocs-of-all-time/
+ 
+ 
+Created with Microsoft OneNote 2016.
